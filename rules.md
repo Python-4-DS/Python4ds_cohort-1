@@ -20,7 +20,7 @@
 * [Rules](https://github.com/Python-4-DS/Cohort-1/edit/master/rules.md)
 * [Logs](https://github.com/Python-4-DS/Cohort-1/blob/master/log.md)
 * [Resources](https://github.com/Python-4-DS/Cohort-1/blob/master/resources.md)
-* [FAQ](https://github.com/Python-4-DS/Cohort-1/blob/master/faq.md)
+* [FAQ](https://github.com/Python-4-DS/Cohort-1/blob/master/FAQ.md)
 
 
 
