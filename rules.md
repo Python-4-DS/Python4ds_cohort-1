@@ -1,7 +1,7 @@
 # Rules of the Nairobi Master Python for Data Science Cohorts
 
 ## Main Commitment
-### **You will dedicate at least 4 hours each week to cover the weekly material.**
+### *You will dedicate at least 4 hours each week to cover the weekly material.*
 
 **Start Date**
 21st January 2019
