@@ -2,6 +2,7 @@
 
 ## Week 1: Introduction
 **(delete me or comment me out)**
+
 **Today's Progress**: Finished going through Numpy and Pandas
 **Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
 **Link to work**: [introduction(Ipython)](www.example.com)
