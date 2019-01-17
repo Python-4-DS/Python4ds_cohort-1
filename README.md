@@ -29,7 +29,8 @@ $git checkout -b youremail@gmail.com master
 
 > See all branches created
 
-```git branch
+```
+$git branch
 *youremail@gmail.com
 master
 ```
