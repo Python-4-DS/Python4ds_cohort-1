@@ -31,8 +31,8 @@ $git checkout -b youremail@gmail.com master
 
 ```
 $git branch
-*youremail@gmail.com
-master
+* youremail@gmail.com
+  master
 ```
 > Push the new branch to github
 
