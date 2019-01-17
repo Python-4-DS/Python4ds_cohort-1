@@ -12,7 +12,7 @@
 
 # Going through the Python for Data Science Handbook
 
-1. Fork the cohort 1 repository provided
+1. Fork the cohort-1 repository provided
 2. Make a topic branch. In your github form, keep the master branch clean. When you create a branch, it essentially will be a copy of the master.
 
 > Pull all changes, make sure your repository is up to date
