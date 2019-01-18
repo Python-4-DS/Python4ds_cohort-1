@@ -23,10 +23,10 @@
 $cd cohort-1
 $git pull origin master
 ```
-> Create a new branch as follows -> git checkout-b[Your_email], e.g
+> Create a new branch as follows -> git checkout-b[Your_slack user name], e.g
 
 ```
-$git checkout -b youremail@gmail.com master
+$git checkout -b yourslackusername master
 ```
 
 > See all branches created
