@@ -20,7 +20,7 @@
 > Pull all changes, make sure your repository is up to date
 
 ```
-$cd cohort-1
+$cd Python4ds_cohort-1
 $git pull origin master
 ```
 > Create a new branch as follows -> git checkout-b[Your_slack user name], e.g
