@@ -2,19 +2,19 @@
 
 ## Contents
 
-* [Rules](https://github.com/Python-4-DS/Cohort-1/blob/master/rules.md)
+* [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 
-* [Log - click here to see my progress](https://github.com/Python-4-DS/Cohort-1/blob/master/log.md)
+* [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
 
-* [Resources](https://github.com/Python-4-DS/Cohort-1/blob/master/resources.md)
+* [Resources](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/resources.md)
 
-* [FAQ](https://github.com/Python-4-DS/Cohort-1/blob/master/FAQ.md)
+* [FAQ](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/FAQ.md)
 
 
 
 # Going through the Python for Data Science Handbook
 
-1. Fork and clone the cohort-1 repository provided to your computer.
+1. Fork and clone the Python4ds_cohort-1 repository provided to your computer.
 2. Make a topic branch. In your github form, keep the master branch clean. When you create a branch, it essentially will be a copy of the master.
 
 > Pull all changes, make sure your repository is up to date
@@ -47,5 +47,6 @@ $git push origin -u youremail@gmail.com
 Edit the **[Log.md file](https://github.com/Python-4-DS/Cohort-1/blob/master/log.md)** in the repository to update your progress and give links to any code that you have written.
 
 4. Commit the changes to your fork
+5. Make a pull request to the Python4ds_cohort-1 Repo
 
 
