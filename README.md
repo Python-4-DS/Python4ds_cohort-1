@@ -47,6 +47,5 @@ $git push origin -u youremail@gmail.com
 Edit the **[Log.md file](https://github.com/Python-4-DS/Cohort-1/blob/master/log.md)** in the repository to update your progress and give links to any code that you have written.
 
 4. Commit the changes to your fork
-5. Make a pull request to the Python4ds_cohort-1 Repo
 
 
