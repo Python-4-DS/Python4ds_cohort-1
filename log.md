@@ -1,6 +1,6 @@
 # Master Python for Data Science Handbook - Log
 
-## Week 1: Introduction
+## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
 **Today's Progress**: Finished going through Numpy and Pandas
@@ -9,7 +9,7 @@
 
 **Link to work**: [introduction(Ipython)](www.example.com)
 
-## Week 2: Data Storage and Manipulation
+## Week 2: Chapter 2: Introduction to Numpy
 
 **This week's Progress**:
 
@@ -17,7 +17,7 @@
 
 **Link to work**:
 
-## Week 3: Practice(Challenge 1)
+## Week 3: Chapter 3: Data Manipulation with Pandas
 
 **This week's Progress**:
 
@@ -25,7 +25,7 @@
 
 **Link to work**:
 
-## Week 4: Visualization
+## Week 4: Practice(Challenge 1)
 
 **This week's Progress**:
 
@@ -33,7 +33,7 @@
 
 **Link to work**:
 
-## Week 5: Practice(Challenge 2)
+## Week 5: Chapter 4: Data Visualization
 
 **This week's Progress**:
 
@@ -41,7 +41,7 @@
 
 **Link to work**:
 
-## Week 6: Machine Learning
+## Week 6: Chapter 4: Data Visualization
 
 **This week's Progress**:
 
@@ -49,7 +49,7 @@
 
 **Link to work**:
 
-## Week 7: Practice(Challenge 3)
+## Week 7: Practice(Challenge 2)
 
 **This week's Progress**:
 
@@ -57,6 +57,29 @@
 
 **Link to work**:
 
+## Week 8: Chapter 5: Machine Learning
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+## Week 9: Chapter 5: Machine Learning
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+## Week 10&11: Practice(Challenge 3&4)
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
 ## Capstone project
 
 
