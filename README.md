@@ -33,7 +33,7 @@ $git checkout -b yourslackusername master
 
 ```
 $git branch
-* youremail@gmail.com
+* yourslackusername
   master
 ```
 > Push the new branch to github
