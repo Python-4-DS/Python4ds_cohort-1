@@ -1,0 +1,8 @@
+    ### Magical commands ###
+- Preceded by %(for single-line commands) or %%(For multiline)
+# %paste
+    -- Paste copied code on Ipython without syntax errors
+# %cpaste
+    -- Paste multiple copied codes. '--' alone or Ctrl-D to stop.
+# %run
+    -- Run s python script in Ipython shell. The run script will be available for use in the cells.
