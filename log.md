@@ -1,13 +1,12 @@
 # Master Python for Data Science Handbook - Log
 
 ## Week 1: Introduction
-**(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through Introduction to Ipython
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: Feeling great to learn Ipython. No blockers so far.
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: [Introduction(Ipython)](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Introduction-Ipython.ipynb)
 
 ## Week 2: Data Storage and Manipulation
 
