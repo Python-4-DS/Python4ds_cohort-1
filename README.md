@@ -39,7 +39,7 @@ $git branch
 > Push the new branch to github
 
 ```
-$git push origin -u youremail@gmail.com
+$git push origin -u yourslackusername
 ```
 
 3. **Remember to only make changes to the Fork!**
