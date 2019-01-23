@@ -23,7 +23,7 @@
 $cd Python4ds_cohort-1
 $git pull origin master
 ```
-> Create a new branch as follows -> git checkout-b[Your_slack user name], e.g
+> Create a new branch as follows -> git checkout -b [Your_slack user name], e.g
 
 ```
 $git checkout -b yourslackusername master
