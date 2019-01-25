@@ -1,4 +1,4 @@
-### Magical commands ###
+### Ipython Magical commands ###
     - Preceded by %(for single-line commands) or %%(For multiline)
     # %paste
         -- Paste copied code on Ipython without syntax errors
