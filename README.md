@@ -20,10 +20,10 @@
 > Pull all changes, make sure your repository is up to date
 
 ```
-$cd cohort-1
+$cd Python4ds_cohort-1
 $git pull origin master
 ```
-> Create a new branch as follows -> git checkout-b[Your_slack user name], e.g
+> Create a new branch as follows -> git checkout -b [Your_slack user name], e.g
 
 ```
 $git checkout -b yourslackusername master
@@ -33,13 +33,13 @@ $git checkout -b yourslackusername master
 
 ```
 $git branch
-* youremail@gmail.com
+* yourslackusername
   master
 ```
 > Push the new branch to github
 
 ```
-$git push origin -u youremail@gmail.com
+$git push origin -u yourslackusername
 ```
 
 3. **Remember to only make changes to the Fork!**
