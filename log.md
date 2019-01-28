@@ -3,11 +3,11 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**week 1 Progress**: finished going through ipython beyond normal python and stated introduction to numpy last week.
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: Though I have had struggles with github am slowly getting to know my way through. 
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: http://localhost:8888/tree/Documents/Master%20python (Weeks progress so far)
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
