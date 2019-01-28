@@ -20,4 +20,5 @@
 ### NUMPY ###
     - The difference between python list arrays and numpy arrays is that for python each item can be of different type,
       while numpy is restricted to a certain data type.
+    - Numpy uses vectorization in repeated operations, which is way faster than python loops.
 
