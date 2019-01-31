@@ -10,11 +10,12 @@
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**: Finished going through introduction to Numpy.
 
-**Thoughts**:
+**Thoughts**: Numpy arrays are very interesting. Not only do they provide an efficient way of manipulating Datasets but also make it easier and faster.
+              No blockers so far and having learnt the basis of dataset manipulation I'm more than eager to move to Pandas.
 
-**Link to work**:
+**Link to work**: [Numpy Arrays](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Numpy.ipynb)
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
