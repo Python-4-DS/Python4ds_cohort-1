@@ -12,7 +12,7 @@
 
 ## Week 2: Introduction to Numpy
 
-**Week 1 Progress**: Finished going through Chapter 2 – Numpy Introduction
+**Week 2 Progress**: Finished going through Chapter 2 – Numpy Introduction
 
 **Thoughts**: This has been my best chapter so far. There're a lot of thing I learnt on Numpy. I did document while writing code on my jupyter notebook to grasp skill in detail. I like the **fancy indexing**.
 
