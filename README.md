@@ -1,10 +1,10 @@
-# Cohort-1 Python for Data Science Nairobi
+# Cohort-1 Python for Data Science Nairobi - Isaac
 
 ## Contents
 
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 
-* [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
+* [Log - click here to see my progress](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/log.md)
 
 * [Resources](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/resources.md)
 
