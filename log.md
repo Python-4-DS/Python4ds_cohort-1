@@ -2,7 +2,7 @@
 
 ## Week 1: Introduction
 
-**Week 1 Progress**: Finished going through Chapter 1 – IPython:Beyond Normal Python
+**Week 1 Progress**: Finished going through Chapter 1 â€“ IPython:Beyond Normal Python
 
 **Thoughts**: The first chapter is very insightful. I did work using the Jupyter IPython command-line, I just realized there're alot of thing i didn't know. The chapter is worthwhile.
 
@@ -12,7 +12,7 @@
 
 ## Week 2: Introduction to Numpy
 
-**Week 1 Progress**: Finished going through Chapter 2 – Numpy Introduction
+**Week 2 Progress**: Finished going through Chapter 2 â€“ Numpy Introduction
 
 **Thoughts**: This has been my best chapter so far. There're a lot of thing I learnt on Numpy. I did document while writing code on my jupyter notebook to grasp skill in detail. I like the **fancy indexing**.
 
