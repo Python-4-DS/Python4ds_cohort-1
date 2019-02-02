@@ -3,7 +3,7 @@
 ## Week 1: Introduction
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through python for data science
 
 **Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
 
