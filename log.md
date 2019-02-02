@@ -1,13 +1,12 @@
 # Master Python for Data Science Handbook - Log
 
 ## Week 1: Introduction: IPython: Beyond Normal Python
-**(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Installed Git for Windows. Set up GitHub account. Using Git Bash, I Forked and Cloned the "Python4ds_cohort-1" repository using Git Bash, and then created the branch "Meg". Installed Anaconda. Changed Jupyter working directory. Launched Ipython shell and notebook.
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: Learning and implementing Git commands using Git Bash has been a challenging, yet interesting experience. I'm looking forward to learning more.
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: [Reviewed Chaper 1 of Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
