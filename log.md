@@ -3,17 +3,17 @@
 ## Week 1: Introduction
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Progress**: Finished going through the intorduction and setup Anaconda and Jupiter Notebook
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: Jupiter Notebook is amazing.
 
 **Link to work**: [introduction(Ipython)](www.example.com)
 
 ## Week 2: Data Storage and Manipulation
 
-**This week's Progress**:
+**02-Feb-2018**: Completed going through chapter 2(Numpy)
 
-**Thoughts**:
+**Thoughts**:I struggled understanding the slicing/indexing of muldimensional arrays.
 
 **Link to work**:
 
