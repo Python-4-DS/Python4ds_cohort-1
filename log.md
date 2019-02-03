@@ -15,7 +15,9 @@
 
 **Thoughts**:I struggled understanding the slicing/indexing of muldimensional arrays.
 
-**Link to work**:
+**Links to work**
+* [Introduction to Numpy Arrays](https://github.com/d-jeph/Python4ds_cohort-1/blob/jeph/Week%20II%20-%20npArrays.ipynb)
+* [Array Operations](https://github.com/d-jeph/Python4ds_cohort-1/blob/jeph/Week%20II%20-%20Array%20Operations.ipynb)
 
 ## Week 3: Practice(Challenge 1)
 
