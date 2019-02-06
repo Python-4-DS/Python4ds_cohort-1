@@ -1,9 +1,8 @@
 # Master Python for Data Science Handbook - Log
 
-## Week 1: Introduction
-<!-- **(delete me or comment me out)** -->
-### Chapter 1 - IPython: Beyond Normal Python
-**Today's Progress**: Finished going through the basics of IPython.
+## Week 1: Introduction: IPython: Beyond Normal Python
+
+**This Week's Progress**: Finished going through the basics of IPython.
 In particular, I learned a lot of new commands on IPython. These include:
 * Accessing Documentation with ``?``
 * Accessing Source Code with ``??``
@@ -14,7 +13,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**: [Chapter 1](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter1.ipynb)
 
-## Week 2: Data Storage and Manipulation
+## Week 2: Chapter 2: Introduction to Numpy
 
 **This week's Progress**:
 1. Understanding Data Types in Python
@@ -39,7 +38,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:[Chapter 2](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter2.ipynb)
 
-## Week 3: Practice(Challenge 1)
+## Week 3: Chapter 3: Data Manipulation with Pandas
 
 **This week's Progress**:
 
@@ -47,7 +46,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:
 
-## Week 4: Visualization
+## Week 4: Practice(Challenge 1)
 
 **This week's Progress**:
 
@@ -55,7 +54,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:
 
-## Week 5: Practice(Challenge 2)
+## Week 5: Chapter 4: Data Visualization
 
 **This week's Progress**:
 
@@ -63,7 +62,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:
 
-## Week 6: Machine Learning
+## Week 6: Chapter 4: Data Visualization
 
 **This week's Progress**:
 
@@ -71,7 +70,7 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:
 
-## Week 7: Practice(Challenge 3)
+## Week 7: Practice(Challenge 2)
 
 **This week's Progress**:
 
@@ -79,6 +78,29 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 **Link to work**:
 
+## Week 8: Chapter 5: Machine Learning
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+## Week 9: Chapter 5: Machine Learning
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+
+## Week 10&11: Practice(Challenge 3&4)
+
+**This week's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
 ## Capstone project
 
 
