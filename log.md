@@ -17,10 +17,27 @@ In particular, I learned a lot of new commands on IPython. These include:
 ## Week 2: Data Storage and Manipulation
 
 **This week's Progress**:
+1. Understanding Data Types in Python
 
-**Thoughts**:
+2. The Basics of Numpy Arrays
 
-**Link to work**:
+3. Computation on Numpy Arrays
+
+4. Aggregations
+
+5. Computations on Arrays
+
+6. Comparisons, Masks, and Boolean Logic
+
+7. Fancy Indexing
+
+8. Sorting Arrays
+
+9. Structured Data
+
+**Thoughts**: I  have learned new NumPy operations. The computation and aggregation techniques, broadcasting techniques are very crucial. Fancy indexing was challenging.
+
+**Link to work**:[Chapter 2](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter2.ipynb)
 
 ## Week 3: Practice(Challenge 1)
 
