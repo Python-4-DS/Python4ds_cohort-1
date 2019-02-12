@@ -19,17 +19,18 @@
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
-**This week's Progress**:
+**This week's Progress**: Finished up on Data Manipulation with Pandas.
 
-**Thoughts**:
+**Thoughts**: Wow! It feels great to finally understand Pandas. Its a pretty wide subject but equally productive.
+               Very ready to dig into the challenge and gauge my understanding.
 
-**Link to work**:
+**Link to work**: [Pandas in General](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Pandas%20in%20General.ipynb)
 
 ## Week 4: Practice(Challenge 1)
 
-**This week's Progress**:
+**This week's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
 
 **Link to work**:
 
