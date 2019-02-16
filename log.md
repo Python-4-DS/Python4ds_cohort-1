@@ -20,6 +20,16 @@
 
 31/01/2019
 
+## Week 3:  Data Manipulation with Pandas
+
+**Week 3 Progress**: Finished going through Chapter 3 – Pandas
+
+**Thoughts**: The chapter was pretty wide and, rich in content and references. It's a chapter that'll keep referring in the oncoming challenges. **.
+
+**Link to work**: 
+
+16/02/2019
+
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
