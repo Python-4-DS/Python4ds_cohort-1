@@ -26,7 +26,7 @@
 
 **Thoughts**: The chapter was pretty wide and, rich in content and references. It's a chapter that'll keep referring in the oncoming challenges. **.
 
-**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Pandas%20Tutorial.ipynb
+**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Pandas%20Tutorial.ipynb **
 
 16/02/2019
 
