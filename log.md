@@ -28,11 +28,11 @@
 
 ## Week 4: Practice(Challenge 1)
 
-**This week's Progress**: 
+**This week's Progress**: Completed the Data Manipulation Challenge 1.
 
-**Thoughts**: 
+**Thoughts**: My first Data Science challenge. Very glad to have acquired some quality skills and very ready to dig into visualizations.
 
-**Link to work**:
+**Link to work**:[Challenge 1](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/kiva_analytics.ipynb)
 
 ## Week 5: Chapter 4: Data Visualization
 
