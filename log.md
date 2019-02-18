@@ -11,17 +11,17 @@
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**:I finished Numpys two weeks ago, sorry I didn't update
 
-**Thoughts**:
+**Thoughts**: It was interesting learning all the shortcuts and how easy it is to calcuate and compute data
 
 **Link to work**:
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
-**This week's Progress**:
+**This week's Progress**: Finished going through pandas
 
-**Thoughts**:
+**Thoughts**: It was quite lenghty but interesting nonetheless
 
 **Link to work**:
 
