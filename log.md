@@ -30,6 +30,15 @@
 
 16/02/2019
 
+## Week 4:  Data Challenge
+
+**Week 4 Progress**: Finished Data Challenge 
+
+**Thoughts**: It was an engage challenge, can't wait for the next chapter so that I can implement visualization skill on the Data Challenge **.
+
+**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Data%20Challenge%20KIVA%20Crowdfunding.ipynb **
+
+19/02/2019
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
