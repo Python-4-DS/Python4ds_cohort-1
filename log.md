@@ -39,6 +39,17 @@
 **Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Data%20Challenge%20KIVA%20Crowdfunding.ipynb **
 
 19/02/2019
+
+## Week 5:  Visualization with Matplotlib
+
+**Week 5 Progress**: Finished going through Chapter 4 –   Visualization with Matplotlib 
+
+**Thoughts**: Lots of visualization example. Most were abit advanced **.
+
+**Link to work**:https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/MATPLOTLIB.ipynb **
+
+22/02/2019
+
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
