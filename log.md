@@ -40,11 +40,24 @@ In particular, I learned a lot of new commands on IPython. These include:
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
-**This week's Progress**:
+**This week's Progress**:  
+The focus on Pandas:
+* [Introducing Pandas Objects](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_01_Introducing_Pandas_Objects.ipynb)
+* [Data Indexing and Selection](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_02_Data_Indexing_and_Selection.ipynb)
+* [Operating on Data in Pandas](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_03_Operations_in_Pandas.ipynb)
+* [Handling Missing Data](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_04_Missing_Values.ipynb)
+* [Hierarchical Indexing](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_05_Hierarchical_Indexing.ipynb)
+* [Combining Datasets: Concat and Append](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_06_Concat_And_Append.ipynb)
+* [Combining Datasets: Merge and Join](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_07_Merge_and_Join.ipynb)
+* [Aggregation and Grouping](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_08_Aggregation_and_Grouping.ipynb)
+* [Pivot Tables](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_09_Pivot_Tables.ipynb)
+* [Vectorized String Operations](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_10_Working_With_Strings.ipynb)
+* [Working with Time Series](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_11_Working_with_Time_Series.ipynb)
+* [High-Performance Pandas: eval() and query()](https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Chapter3_12_Performance_Eval_and_Query.ipynb)
 
-**Thoughts**:
+**Thoughts**: Data Manipulation with Pandas builds on NumPy with a lot more techniques.
 
-**Link to work**:
+**Link to work**: Indicated on week 3 progress above. The notebooks are customized from the [textbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
 
 ## Week 4: Practice(Challenge 1)
 
