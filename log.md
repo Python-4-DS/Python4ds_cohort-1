@@ -36,11 +36,13 @@
 
 ## Week 5: Chapter 4: Data Visualization
 
-**This week's Progress**:
+**This week's Progress**: Finished up on data Visualizations and did a self challenge. 
 
-**Thoughts**:
+**Thoughts**: One of the most important chapters in Data Science. Glad to learn it.
 
-**Link to work**:
+**Link to work**:Learning: [Visualisations](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Visualisations.ipynb)
+
+**Self Challenge**: [Kiva Data Analytics](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/full_kiva_loans_analysis.ipynb)
 
 ## Week 6: Chapter 4: Data Visualization
 
