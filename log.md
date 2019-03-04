@@ -50,6 +50,16 @@
 
 22/02/2019
 
+## Week 6:  Visualization with Matplotlib
+
+**Week 6 Progress**: Finished going through Chapter 4 –   Visualization with Matplotlib 
+
+**Thoughts**: I had been doing some research on the same topic. Going through various tutorials and blogs **.
+
+**Link to work**: **
+
+03/03/2019
+
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
