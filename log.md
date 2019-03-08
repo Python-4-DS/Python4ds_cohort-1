@@ -27,11 +27,11 @@
 
 ## Week 4: Visualization
 
-**This week's Progress**:
+**This week's Progress**: I have been stuck in Data manupulation in pandas.
 
-**Thoughts**:
+**Thoughts**:I am really learning alot and understanding how I can use the knowledge I get to manupulate data with real life data from the office
 
-**Link to work**:
+**Link to work**:http://localhost:8889/tree/Documents/Master_python/Python4ds_cohort-1
 
 ## Week 5: Practice(Challenge 2)
 
