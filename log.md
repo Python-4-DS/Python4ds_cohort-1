@@ -35,7 +35,7 @@ https://github.com/WambuiM/Python4ds_cohort-1/blob/master/DataManipulationWithPa
 
 **Thoughts**:
 
-**Link to work**:
+**Link to work**:https://github.com/WambuiM/Python4ds_cohort-1/blob/master/KivaChallenge.ipynb
 
 ## Week 5: Chapter 4: Data Visualization
 
