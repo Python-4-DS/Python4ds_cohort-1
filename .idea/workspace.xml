@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79528586-18e7-4ca9-981f-889876d447bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python4ds_cohort-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python4ds_cohort-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Pandas in General-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/Pandas in General-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/intro_to_ML-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/intro_to_ML-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Pandas in General.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Pandas in General.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/full_kiva_loans_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/full_kiva_loans_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/intro_to_ML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/intro_to_ML.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +92,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f37e020-0bcb-4025-a458-8ae2c5f680da" name="Default Changelist" comment="" />
+      <changelist id="79528586-18e7-4ca9-981f-889876d447bc" name="Default Changelist" comment="" />
       <created>1548144056464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -100,7 +103,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
