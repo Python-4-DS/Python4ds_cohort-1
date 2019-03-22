@@ -13,11 +13,9 @@
 
 **This week's Progress**:
 
-**Thoughts**: 
+**Thoughts**:
 
-**Link to work**: https://github.com/WambuiM/Python4ds_cohort-1/blob/master/ComputationOnNumpy.ipynb
-https://github.com/WambuiM/Python4ds_cohort-1/blob/master/computationOnNumpy2.ipynb
-
+**Link to work**:
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
@@ -25,9 +23,7 @@ https://github.com/WambuiM/Python4ds_cohort-1/blob/master/computationOnNumpy2.ip
 
 **Thoughts**:
 
-**Link to work**:https://github.com/WambuiM/Python4ds_cohort-1/blob/master/DataManipulationwithPandas.ipynb
-
-https://github.com/WambuiM/Python4ds_cohort-1/blob/master/DataManipulationWithPandas2.ipynb
+**Link to work**:
 
 ## Week 4: Practice(Challenge 1)
 
@@ -35,7 +31,7 @@ https://github.com/WambuiM/Python4ds_cohort-1/blob/master/DataManipulationWithPa
 
 **Thoughts**:
 
-**Link to work**:https://github.com/WambuiM/Python4ds_cohort-1/blob/master/KivaChallenge.ipynb
+**Link to work**:
 
 ## Week 5: Chapter 4: Data Visualization
 
