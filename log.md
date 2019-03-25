@@ -3,7 +3,7 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through python for data science
 
 **Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
 
@@ -27,11 +27,11 @@
 
 ## Week 4: Practice(Challenge 1)
 
-**This week's Progress**:
+**This week's Progress**: I have been stuck in Data manupulation in pandas.
 
-**Thoughts**:
+**Thoughts**:I am really learning alot and understanding how I can use the knowledge I get to manupulate data with real life data from the office
 
-**Link to work**:
+**Link to work**:http://localhost:8889/tree/Documents/Master_python/Python4ds_cohort-1
 
 ## Week 5: Chapter 4: Data Visualization
 
