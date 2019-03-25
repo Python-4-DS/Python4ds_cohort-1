@@ -44,7 +44,15 @@
 
 **Self Challenge**: [Kiva Data Analytics](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/full_kiva_loans_analysis.ipynb)
 
-## Week 6: Chapter 4: Data Visualization
+## Week 6: Practice(Challenge 2)
+
+**This week's Progress**: Finished on practice challenge 2: Blood Donation Prediction.
+
+**Thoughts**: Glad to be able to tackle a typical machine Learning project.
+
+**Link to work**: [Blood Donations Prediction](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Prediction-Blood%20Donations.ipynb)
+
+## Week 7: Chapter 5: Machine Learning
 
 **This week's Progress**:
 
@@ -52,31 +60,7 @@
 
 **Link to work**:
 
-## Week 7: Practice(Challenge 2)
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-
-## Week 8: Chapter 5: Machine Learning
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-
-## Week 9: Chapter 5: Machine Learning
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-
-## Week 10&11: Practice(Challenge 3&4)
+## Week 8&9: Practice(Challenge 3&4)
 
 **This week's Progress**:
 
