@@ -61,11 +61,11 @@ The focus on Pandas:
 
 ## Week 4: Practice(Challenge 1)
 
-**This week's Progress**:
+**This week's Progress**: Completed the analytics on Kiva data for loans across countries in terms of gender and sector.
 
-**Thoughts**:
+**Thoughts**: All the concepts of Pandas are applied to the challenge.
 
-**Link to work**:
+**Link to work**: [Kiva Challenge Submission]( https://github.com/twiga2/Python4ds_cohort-1/blob/dina/work/Challenge1_Kiva.ipynb)
 
 ## Week 5: Chapter 4: Data Visualization
 
