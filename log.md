@@ -3,19 +3,21 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Progress**: Finished going through the intorduction and setup Anaconda and Jupiter Notebook
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: Jupiter Notebook is amazing.
 
 **Link to work**: [introduction(Ipython)](www.example.com)
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**02-Feb-2018**: Completed going through chapter 2(Numpy)
 
-**Thoughts**:
+**Thoughts**:I struggled understanding the slicing/indexing of muldimensional arrays.
 
-**Link to work**:
+**Links to work**
+* [Introduction to Numpy Arrays](https://github.com/d-jeph/Python4ds_cohort-1/blob/jeph/Week%20II%20-%20npArrays.ipynb)
+* [Array Operations](https://github.com/d-jeph/Python4ds_cohort-1/blob/jeph/Week%20II%20-%20Array%20Operations.ipynb)
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
