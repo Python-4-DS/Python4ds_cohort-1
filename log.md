@@ -1,87 +1,64 @@
 # Master Python for Data Science Handbook - Log
 
-## Week 1: Introduction: IPython: Beyond Normal Python
-**(delete me or comment me out)**
+## Week 1: Introduction
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Week 1 Progress**: Finished going through Chapter 1 – IPython:Beyond Normal Python
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: The first chapter is very insightful. I did work using the Jupyter IPython command-line, I just realized there're alot of thing i didn't know. The chapter is worthwhile.
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: N/A
 
-## Week 2: Chapter 2: Introduction to Numpy
+26/01/2019
 
-**This week's Progress**:
+## Week 2: Introduction to Numpy
 
-**Thoughts**:
+**Week 2 Progress**: Finished going through Chapter 2 – Numpy Introduction
 
-**Link to work**:
+**Thoughts**: This has been my best chapter so far. There're a lot of thing I learnt on Numpy. I did document while writing code on my jupyter notebook to grasp skill in detail. I like the **fancy indexing**.
 
-## Week 3: Chapter 3: Data Manipulation with Pandas
+**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Numpy.ipynb
 
-**This week's Progress**:
+31/01/2019
 
-**Thoughts**:
+## Week 3:  Data Manipulation with Pandas
 
-**Link to work**:
+**Week 3 Progress**: Finished going through Chapter 3 – Pandas
 
-## Week 4: Practice(Challenge 1)
+**Thoughts**: The chapter was pretty wide and, rich in content and references. It's a chapter that'll keep referring in the oncoming challenges. **.
 
-**This week's Progress**:
+**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Pandas%20Tutorial.ipynb **
 
-**Thoughts**:
+16/02/2019
 
-**Link to work**:
+## Week 4:  Data Challenge
 
-## Week 5: Chapter 4: Data Visualization
+**Week 4 Progress**: Finished Data Challenge 
 
-**This week's Progress**:
+**Thoughts**: It was an engage challenge, can't wait for the next chapter so that I can implement visualization skill on the Data Challenge **.
 
-**Thoughts**:
+**Link to work**: https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/Data%20Challenge%20KIVA%20Crowdfunding.ipynb **
 
-**Link to work**:
+19/02/2019
 
-## Week 6: Chapter 4: Data Visualization
+## Week 5:  Visualization with Matplotlib
 
-**This week's Progress**:
+**Week 5 Progress**: Finished going through Chapter 4 –   Visualization with Matplotlib 
 
-**Thoughts**:
+**Thoughts**: Lots of visualization example. Most were abit advanced **.
 
-**Link to work**:
+**Link to work**:https://github.com/mickeywise/Python4ds_cohort-1/blob/M_Machira/MATPLOTLIB.ipynb **
 
-## Week 7: Practice(Challenge 2)
+22/02/2019
 
-**This week's Progress**:
+## Week 6:  Visualization with Matplotlib
 
-**Thoughts**:
+**Week 6 Progress**: Finished going through Chapter 4 –   Visualization with Matplotlib 
 
-**Link to work**:
+**Thoughts**: I had been doing some research on the same topic. Going through various tutorials and blogs **.
 
-## Week 8: Chapter 5: Machine Learning
+**Link to work**: **
 
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-
-## Week 9: Chapter 5: Machine Learning
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-
-## Week 10&11: Practice(Challenge 3&4)
-
-**This week's Progress**:
-
-**Thoughts**:
-
-**Link to work**:
-## Capstone project
-
+03/03/2019
 
 ## Contents
 * [Rules](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/rules.md)
