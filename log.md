@@ -54,19 +54,21 @@
 
 ## Week 7: Chapter 5: Machine Learning
 
-**This week's Progress**:
+**This week's Progress**: Finished going through Machine Learning basics with scikit-learn.
 
-**Thoughts**:
+**Thoughts**: Its so great to finally understand the art of Machine Learning. I love the basics I've learnt and will continue learning to be able to build models which will solve problems facing the society.
 
-**Link to work**:
+**Link to work(1)**: [Introduction to ML](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/intro_to_ML.ipynb)
+
+**Link to work(2)**: [ML 102](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/ML.ipynb)
 
 ## Week 8&9: Practice(Challenge 3&4)
 
-**This week's Progress**:
+**This week's Progress**: Finished the Santander ML challenge.
 
-**Thoughts**:
+**Thoughts**: Quite a large and frustrating dataset, but I managed. Kudos to me!
 
-**Link to work**:
+**Link to work**: [Santander Challenge](https://github.com/Kasre96/Python4ds_cohort-1/blob/Isaac/notebooks/Santander%20Customer%20Transaction%20Prediction.ipynb)
 ## Capstone project
 
 
