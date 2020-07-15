@@ -3,25 +3,25 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: finished going through the introducton to IPython
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: I had a tough time installing anaconda and understanding Git and Github but I think now I have an idea about what I am doing
 
-**Link to work**: [introduction(Ipython)](www.example.com)
+**Link to work**: [introduction(Ipython)]
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**:I finished Numpys two weeks ago, sorry I didn't update
 
-**Thoughts**:
+**Thoughts**: It was interesting learning all the shortcuts and how easy it is to calcuate and compute data
 
 **Link to work**:
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
-**This week's Progress**:
+**This week's Progress**: Finished going through pandas
 
-**Thoughts**:
+**Thoughts**: It was quite lenghty but interesting nonetheless
 
 **Link to work**:
 
@@ -88,4 +88,3 @@
 * [Log - click here to see my progress](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/log.md)
 * [Resources](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/resources.md)
 * [FAQ](https://github.com/Python-4-DS/Python4ds_cohort-1/blob/master/FAQ.md)
-
