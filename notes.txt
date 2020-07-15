@@ -1,0 +1,24 @@
+### Ipython Magical commands ###
+    - Preceded by %(for single-line commands) or %%(For multiline)
+    # %paste
+        -- Paste copied code on Ipython without syntax errors
+    # %cpaste
+        -- Paste multiple copied codes. '--' alone or Ctrl-D to stop.
+    # %run
+        -- Run s python script in Ipython shell. The run script will be available for use in the cells.
+
+
+### ERROR DEBUGGING ###
+    %xmode will switch to Exception mode. It can either be Plain, Context(default) and Verbose.(In order of detailness)
+    %debug to launch debug mode
+        E.g
+        %xmode Plain
+        %pdb on
+        func(args)
+
+
+### NUMPY ###
+    - The difference between python list arrays and numpy arrays is that for python each item can be of different type,
+      while numpy is restricted to a certain data type.
+    - Numpy uses vectorization in repeated operations, which is way faster than python loops.
+

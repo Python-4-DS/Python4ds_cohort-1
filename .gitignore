@@ -1,0 +1,5 @@
+env/
+venv/
+myvenv/
+kiva_loans.csv
+data/santander/
